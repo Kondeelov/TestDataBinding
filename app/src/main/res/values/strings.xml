@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestDataBinding</string>
+    <string name="label_test">Test Test Test</string>
+</resources>
